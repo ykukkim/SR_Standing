@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated ISB 2017 conference abstract."
+title: "Auditory stochastic resonance during standing: CoP and EMG analysis"
+type: software
+authors:
+  - family-names: Kim
+    given-names: Yong Kuk
+repository-code: "https://github.com/ykukkim/SR_Standing"
+preferred-citation:
+  type: conference-paper
+  title: "Can auditory stochastic resonance enhance standing balance?"
+  authors:
+    - family-names: Singh
+      given-names: Navrag B.
+    - family-names: Riner
+      given-names: Fabienne
+    - family-names: König
+      given-names: Niklas
+    - family-names: Taylor
+      given-names: William R.
+  collection-title: "Proceedings of the XXVI Congress of the International Society of Biomechanics"
+  year: 2017
+  url: "https://isbweb.org/images/conferences/isb-congresses/2017/ISB2017-Full-Abstract-Book.pdf"

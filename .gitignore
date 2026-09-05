@@ -1,0 +1,53 @@
+.DS_Store
+._*
+.idea/
+*.asv
+*.autosave
+*~
+
+# MATLAB and study data
+*.mat
+*.c3d
+*.fig
+*.mex*
+
+# R session and project state
+.RData
+.Rhistory
+.Rproj.user/
+
+# Generated tables, plots and logs
+*.csv
+*.xlsx
+*.xls
+*.png
+*.jpg
+*.tif
+*.tiff
+*.bmp
+*.pdf
+*.log
+Results/
+outputs/
+
+# Documents and development archives
+*.doc
+*.docx
+*.odt
+*.pages
+*.pptx
+*.key
+*.zip
+00_Manuscript/
+**/_Archive/
+**/backup/
+**/notused/
+
+# Bundled external toolboxes and binaries
+*.dll
+*.lib
+*.pdb
+01_Functions/functions_copanalysis/btk/
+01_Functions/functions_emgeanalysis/fieldtrip-master/
+01_Functions/functions_neurospec/
+01_Functions/Statistical Parameter Mappingalt/
